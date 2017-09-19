@@ -1,4 +1,2 @@
 
-"use_strict"
-
-var i = 1;
+alert("Local")
